@@ -1,2 +1,17 @@
 #para ver la version
     python3 -V
+    python3 --version
+
+#instalar pip
+
+    sudo apt install python3-pip
+
+#instalar venv (virtual entorno)
+
+    sudo apt install python3-venv
+
+# crear entorno
+    python3 -m venv .venv
+
+# activar entorno
+    source .venv/bin/activate
