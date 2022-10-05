@@ -15,3 +15,9 @@
 
 # activar entorno
     source .venv/bin/activate
+
+# para desactivar el entorno
+
+    deactivate
+
+
